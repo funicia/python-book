@@ -1,7 +1,6 @@
-# [pythonru-men.md](pythonru-men.md)
+# Summary
 
+* [Introduction](README.md)
 * [pythonji-chu.md](pythonji-chu.md)
-* [ji-chu-shu-zhi-lei-xing.md](ji-chu-shu-zhi-lei-xing.md)
-
-
+* [基础数据类型](ji-chu-shu-zhi-lei-xing.md)
 
