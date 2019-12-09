@@ -23,7 +23,7 @@
 
 ![](/assets/help_sysmodule.png)
 
-```
+```py
 def testfunc():
     """
         this is something for help
