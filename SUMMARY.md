@@ -1,6 +1,6 @@
 # Summary
 
-* [Python](README.md)入门
+* Python入门
   * [python基础](pythonji-chu.md)
   * * [基础数据类型和变量](/README.md)
     * [内置函数简介](nei-zhi-han-shu-jian-jie.md)
