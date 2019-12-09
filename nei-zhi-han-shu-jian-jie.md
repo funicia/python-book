@@ -7,7 +7,7 @@
 45708400L
 ```
 
-```
+```py
 >>>a = 'test'
 >>>id(a)
 60435408L
@@ -21,7 +21,7 @@
 
 ### help:查看对象的帮助说明
 
-![](/assets/help_sysmodule.png)
+<img src="/assets/help_sysmodule.png"/>
 
 ```py
 def testfunc():
