@@ -21,6 +21,8 @@
 
 help:查看对象的帮助说明
 
+![](/assets/help_sysmodule.png)
+
 isinstance: 查看对象是否是某一种类型
 
 type: 查看对象的类型
